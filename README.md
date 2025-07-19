@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">Software Developer | AI Enthusiast | Full Stack Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Final+Year+Engineering+Student+%7C+VIT+Pune;Java+%7C+Spring+Boot+%7C+React+%7C+MongoDB+%7C+DSA;Passionate+about+Solving+Real+World+Problems+%E2%9A%A1%EF%B8%8F;Let%E2%80%99s+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Final+Year+Engineering+Student+%7C+VIT+Pune;Java+%7C+Spring+Boot+%7C+React+%7C+MongoDB+%7C+DSA;Passionate+about+Solving+Real+World+Problems+%E2%9A%A1%EF%B8%8F;Let%E2%80%99s+Build+Something+Amazing+Together!; " alt="Typing SVG" />
 <br>
 </p>
 
