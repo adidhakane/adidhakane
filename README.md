@@ -107,5 +107,5 @@ flowchart TD
 - 🌐 **Portfolio (Work in Progress)**: [TodoRails](https://todo-rails-cng2.onrender.com)
 
 ---
-
+<p align="center"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" /> </p>
 _“Code isn't just syntax; it's structured creativity.”_
