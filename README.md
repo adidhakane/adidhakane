@@ -43,6 +43,18 @@ Here are some ideas to get you started:
 **Database & Cloud:** MySQL, MongoDB, AWS  
 **Tools & Platforms:** Git, GitHub, Postman, Render, IntelliJ, Maven, VS Code  
 
+```mermaid
+flowchart TD
+    A[Languages] -->|Java| B[Backend]
+    A -->|JavaScript| C[Frontend]
+    B -->|Spring Boot| D[APIs]
+    C -->|ReactJS| E[UI/UX]
+    E -->|Tailwind CSS| F[Responsive UI]
+    B -->|MongoDB| G[Database]
+    B -->|MySQL| G
+    A -->|Python| H[CV Projects]
+```
+
 ---
 
 ## 💼 Experience
