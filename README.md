@@ -43,70 +43,6 @@ Here are some ideas to get you started:
 **Database & Cloud:** MySQL, MongoDB, AWS  
 **Tools & Platforms:** Git, GitHub, Postman, Render, IntelliJ, Maven, VS Code  
 
-```mermaid
-flowchart TB
-  subgraph Languages
-    JAVA[Java]
-    C[C]
-    PYTHON[Python]
-    JS[JavaScript]
-  end
-
-  subgraph Frontend
-    REACT[ReactJS]
-    TAILWIND[Tailwind CSS]
-    HTML[HTML5]
-    CSS[CSS3]
-    THYMELEAF[Thymeleaf]
-  end
-
-  subgraph Backend
-    SPRING[Spring Boot]
-    MVC[Spring MVC]
-    SECURITY[Spring Security]
-    JPA[JPA]
-    REST[REST APIs]
-  end
-
-  subgraph Database_Cloud
-    MYSQL[MySQL]
-    MONGO[MongoDB]
-    AWS[AWS]
-  end
-
-  subgraph Tools
-    GIT[Git]
-    GITHUB[GitHub]
-    POSTMAN[Postman]
-    RENDER[Render]
-    INTELLIJ[IntelliJ]
-    MAVEN[Maven]
-    VSCODE[VS Code]
-  end
-
-  JAVA --> SPRING
-  C --> SPRING
-  PYTHON --> TOOLS
-  JS --> REACT
-  REACT --> TAILWIND
-  HTML --> THYMELEAF
-  CSS --> THYMELEAF
-  SPRING --> REST
-  SPRING --> JPA
-  SPRING --> SECURITY
-  REST --> MYSQL
-  REST --> MONGO
-  MYSQL --> AWS
-  MONGO --> AWS
-  GIT --> GITHUB
-  GITHUB --> RENDER
-  RENDER --> AWS
-  INTELLIJ --> JAVA
-  MAVEN --> SPRING
-  VSCODE --> JS
-
-```
-
 ---
 
 ## 💼 Experience
@@ -156,7 +92,7 @@ flowchart TB
 ## 📫 Let’s Connect!
 
 - 📧 **Email**: [aditya.dhakane22@vit.edu](mailto:aditya.dhakane22@vit.edu)  
-- 🌐 **Portfolio (Work in Progress)**: [TodoRails](https://todo-rails-cng2.onrender.com)
+- 🌐 **Portfolio**: [Link](https://portfolio-adidhakanes-projects.vercel.app/)
 
 ---
 _“Code isn't just syntax; it's structured creativity.”_
