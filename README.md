@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello! I'm Aditya Dhakane
+<!--# 👋 Hello! I'm Aditya Dhakane-->
 <h1 align="center">Hi 👋, I'm Aditya Dhakane</h1>
 <h3 align="center">Software Developer | AI Enthusiast | Full Stack Explorer 🚀</h3>
 
